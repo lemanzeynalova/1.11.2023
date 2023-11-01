@@ -1,0 +1,5 @@
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\net6.0\ConsoleApp23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\net6.0\ConsoleApp23.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\net6.0\ConsoleApp23.AssemblyInfo.cs
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\net6.0\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\net6.0\ConsoleApp23.csproj.AssemblyReference.cache

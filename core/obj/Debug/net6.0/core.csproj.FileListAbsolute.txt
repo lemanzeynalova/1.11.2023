@@ -1,0 +1,11 @@
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.AssemblyInfo.cs
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\bin\Debug\net6.0\core.deps.json
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\bin\Debug\net6.0\core.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\bin\Debug\net6.0\core.pdb
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\refint\core.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\core.pdb
+C:\Users\Birinci Novbe\source\repos\ConsoleApp23\core\obj\Debug\net6.0\ref\core.dll
